@@ -31,12 +31,4 @@ An intelligent grocery shopping chatbot built using **Python (FastAPI)** and **O
 
 ## 📁 Folder Structure
 
-grocery_chatbot/ 
-├── main.py # FastAPI app 
-├── chat.py # OpenAI chatbot logic 
-├── grocery_api.py # Spoonacular grocery search 
-├── firebase_service.py # Firebase Firestore connection 
-├── firebase_key.json # Firebase credentials (not committed) 
-├── .env # API keys (ignored in Git) 
-├── requirements.txt # Dependencies 
-└── README.md # This file
+grocery_chatbot/ ├── main.py # FastAPI app ├── chat.py # OpenAI chatbot logic ├── grocery_api.py # Spoonacular grocery search ├── firebase_service.py # Firebase Firestore connection ├── firebase_key.json # Firebase credentials (not committed) ├── .env # API keys (ignored in Git) ├── requirements.txt # Dependencies └── README.md # This file
